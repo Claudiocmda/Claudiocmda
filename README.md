@@ -13,10 +13,10 @@
 <br><br>
 
 - :school: I am a BACKEND DEVELOPER.
-- :trophy: 2x `ACPC` Finalist.
+- 🔭 I am currently working on more personal projects, looking for them to be complex enough to put in my portfolio.
+- 🌱 I've 6+ months of professional experience working on personal projects, using various technologies beyond languages ​​and frameworks. Database, connections with APIS, Cloud services, unit tests, repositories, Scalability, among other aspects.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Software Engineering`on the Backend side, in Python, javascript and soon in GO.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
