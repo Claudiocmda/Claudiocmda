@@ -23,7 +23,9 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
 <br>
-## 🛠 &nbsp;Tech Stack
+
+
+  🛠 &nbsp;TECH STACK
 
 
 
