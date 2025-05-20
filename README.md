@@ -28,6 +28,7 @@
   🛠 &nbsp;TECH STACK
 
 
+![17477815034145960465748685673423](https://github.com/user-attachments/assets/76f8409d-568e-45dc-b634-c8d397a0d4ac)
 
 🔧 Languages
 
