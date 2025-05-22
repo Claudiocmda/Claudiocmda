@@ -19,7 +19,7 @@
 - 🌱 I've 6+ months of professional experience working on personal projects, using various technologies beyond languages ​​and frameworks. Database, connections with APIS, `Cloud services`, unit tests, repositories, `Scalability`, among other aspects constantly seeking to learn.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`on the Backend side, in Python, javascript and soon in GO.
-- :nerd_face: Always `learning new things`.
+- 🧒 Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
 <br>
