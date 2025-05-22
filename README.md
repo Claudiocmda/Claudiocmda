@@ -21,7 +21,7 @@
 - 👨‍🎓 I’m currently learning `Software Engineering`on the Backend side, in Python, javascript and soon in GO.
 - 🧒 Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :boom: You can visit [MY PORTFOLIO]().
 <br>
 
 
