@@ -16,7 +16,7 @@
 
 - :school: I am a BACKEND DEVELOPER.
 - 🔭 I am currently working on more personal projects, looking for them to be complex enough to put in my portfolio.
-- 🌱 I've 6+ months of professional experience working on personal projects, using various technologies beyond languages ​​and frameworks. Database, connections with APIS, `Cloud services`, unit tests, repositories, `Scalability`, among other aspects constantly seeking to learn.
+- 🌱 I've +2 years of professional experience working on personal projects, using various technologies beyond languages ​​and frameworks. Database, connections with APIS, `Cloud services`, unit tests, repositories, `Scalability`, among other aspects constantly seeking to learn.
 - :technologist: I love using Software as a solution for every `Problem`.
 - 👨‍🎓 I’m currently learning `Software Engineering`on the Backend side, in Python, javascript and soon in GO.
 - 🧒 Always `learning new things`.
